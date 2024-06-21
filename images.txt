@@ -1,4 +1,1 @@
-gitlab/gitlab-ce:16.10.6-ce.0
-jenkins/jenkins:jdk17
-percona/percona-server:5.7
-uusec/nanqiang:latest
+zabbix/zabbix-server-mysql:5.0.42-centos
