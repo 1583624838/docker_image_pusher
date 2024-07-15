@@ -1,1 +1,1 @@
-bitnami/openresty:1.25
+smallcham/sec:latest
