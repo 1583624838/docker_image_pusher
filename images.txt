@@ -1,1 +1,1 @@
-smallcham/sec:all-in-0.2
+2fauth/2fauth:5.2.0
