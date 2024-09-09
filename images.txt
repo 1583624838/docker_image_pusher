@@ -1,2 +1,1 @@
-zabbix/zabbix-server-mysql:7.0.3-ubuntu
-zabbix/zabbix-web-nginx-mysql:7.0.3-ubuntu
+mysql:8.0.39-debian
