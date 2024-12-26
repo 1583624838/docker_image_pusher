@@ -1,1 +1,2 @@
-sickcodes/docker-osx:latest
+mysql:5.7.44
+mysql:8.0.40
