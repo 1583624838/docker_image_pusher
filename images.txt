@@ -1,1 +1,1 @@
-pythonstock/pythonstock:latest
+python:3.9.21
