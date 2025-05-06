@@ -1,1 +1,1 @@
-aingdesk/aingdesk:latest
+mayanghua/instock:latest
