@@ -1,3 +1,1 @@
-zabbix/zabbix-web-nginx-pgsql:7.0.17-ubuntu
-zabbix/zabbix-server-pgsql:7.0.17-ubuntu
-oroinc/pgsql:16.8-alpine
+postgres:16.9
