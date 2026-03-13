@@ -1,1 +1,1 @@
-nezhahq/nezha:v2.0.5
+ghcr.io/nezhahq/nezha:v2.0.5
